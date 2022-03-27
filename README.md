@@ -81,6 +81,12 @@ Track bands seen, venues visited, setists from shows.
    * concert detail screen
    * add concert
    * user statistics
+* Add Concert
+   * Home (after adding new concert)
+* User Statistics
+   * Home
+* Concert detail screen
+   * Home
 
 ## Wireframes
 [Add picture of your hand sketched wireframes in this section]
