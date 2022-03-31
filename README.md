@@ -89,8 +89,8 @@ Track bands seen, venues visited, setists from shows.
    * Home
 
 ## Wireframes
-[Add picture of your hand sketched wireframes in this section]
-<img src="YOUR_WIREFRAME_IMAGE_URL" width=600>
+
+<img src="https://ibb.co/mTp2cwv" width=600>
 
 ### [BONUS] Digital Wireframes & Mockups
 
