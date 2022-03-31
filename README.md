@@ -1,7 +1,7 @@
 # ConcertTrackApp
 App for tracking concerts attended
 
-Original App Design Project - README Template
+Original App Design Project - README
 ===
 
 # inConcert (pending)
