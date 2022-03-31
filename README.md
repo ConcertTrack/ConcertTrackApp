@@ -90,7 +90,7 @@ Track bands seen, venues visited, setists from shows.
 
 ## Wireframes
 
-<img src="https://ibb.co/mTp2cwv" width=600>
+<img src="https://user-images.githubusercontent.com/72887687/161099525-e8b6769b-1def-4965-9843-a6add5dd1021.jpg" width=600>
 
 ### [BONUS] Digital Wireframes & Mockups
 
