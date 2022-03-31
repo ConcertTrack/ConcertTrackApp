@@ -4,7 +4,7 @@ App for tracking concerts attended
 Original App Design Project - README Template
 ===
 
-# APP_NAME_HERE
+# inConcert (pending)
 
 ## Table of Contents
 1. [Overview](#Overview)
