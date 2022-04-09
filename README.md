@@ -97,8 +97,16 @@ Track bands seen, venues visited, setists from shows.
 ### [BONUS] Interactive Prototype
 
 ## Schema 
-[This section will be completed in Unit 9]
 ### Models
+Spotify 
+
+| Property  | Type | Description |
+| --------- | ---- | ----------- |
+| trackId   |String| unique id for spotify track  |
+| user      | Pointer to User | Spotify user      |
+| ArtistId  |String| unique id for spotify artist |
+| genre     |String|Artist's genre |
+ 
 [Add table of models]
 ### Networking
 - [Add list of network requests by screen ]
