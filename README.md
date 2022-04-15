@@ -95,6 +95,7 @@ Track bands seen, venues visited, setists from shows.
 ### [BONUS] Digital Wireframes & Mockups
 
 ### [BONUS] Interactive Prototype
+<img src='http://g.recordit.co/4uf4uN6J3k.gif' title='Video Walkthrough' width='' alt='Video Walkthrough' />
 
 ## Schema 
 [This section will be completed in Unit 9]
